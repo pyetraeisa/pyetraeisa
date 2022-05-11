@@ -1,9 +1,4 @@
-# Sobre mim
-
-## Editando perfil
-
-###### Teste
-
+# sobre mim
 - 👋 ola meu nome e @pyetraeisa
 - :+1: Meu email de contato e isabelly.azevedo@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens
